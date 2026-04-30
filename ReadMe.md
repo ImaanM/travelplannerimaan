@@ -230,6 +230,16 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 
 <img width="1384" height="731" alt="Screenshot 2026-03-07 at 23 16 06" src="https://github.com/user-attachments/assets/5bf8ec40-0f40-46d1-9ab0-1a9697888494" />
 
+This website's goal is to give users an easy-to-use platform for organising travel adventures. Its main goal is to give users the ability to plan daily activities, organise their travels, and discover places all in one location. With a light/dark mode choice for user comfort, the design prioritises accessibility, simplicity of use, and easy navigation. The overall goal is to provide a simple, user-friendly interface that facilitates effective trip planning without needless complication.
+In order to select a trip location, I, as a user, wish to investigate several cities.
+I wish to arrange my schedule by organising my everyday activities as a user.
+I want to organise and store my travels as a user so I can go back to them at a later time.
+As a user, I want the website to have an easy-to-use interface.
+In order to select a trip destination, I, as a user, wish to investigate several cities.
+I wish to arrange my agenda as a user by organising my everyday activities.
+I want to organise and store my travels as a user so that I may go back to them at a later time.
+I want an easy-to-use interface so that I can utilise the website with ease.
+
 
 ## References 
 
